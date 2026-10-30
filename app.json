@@ -1,0 +1,28 @@
+{
+  "id": "54d024e0-581a-40ad-9d77-0501b08a0e33",
+  "name": "ZUMMO",
+  "publisher": "LogixCare, LLC",
+  "version": "1.0.0.44",
+  "brief": "Zummo Customizations",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://www.logixcare.com",
+  "logo": "logo/logo.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50099
+    }
+  ],
+  "features": [
+    "TranslationFile"
+  ],
+  "showMyCode": false,
+  "runtime": "3.0"
+}
