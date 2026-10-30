@@ -134,4 +134,10 @@ page 50002 "LGX ZMO Service & Warr. Line"
             }
         }
     }
+
+    // Antes en Zummo Ext WARRANTY (pageextension 50073)
+    trigger OnNewRecord(BelowxRec: Boolean)
+    begin
+        Rec.UpdateAssitedBy();
+    end;
 }

@@ -6,6 +6,12 @@ pageextension 50011 "LGX ZMO Sales Invoice" extends "Sales Invoice" //43
         {
             Visible = not HideCostAndPosting;
         }
+        // Antes en Zummo Ext WARRANTY (pageextension 50070)
+        addafter(Status)
+        {
+            field("Service & Warranty No."; "Service & Warranty No.")
+            { }
+        }
     }
 
     actions

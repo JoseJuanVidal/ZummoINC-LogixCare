@@ -4,6 +4,11 @@ pageextension 50008 "LGX ZMO Sales Order" extends "Sales Order" //42
     {
         addafter(Status)
         {
+            // Antes en Zummo Ext WARRANTY (pageextension 50066)
+            field("Service & Warranty No."; "Service & Warranty No.")
+            {
+
+            }
             field("LGX ZMO Created By User ID"; "LGX ZMO Created By User ID")
             {
                 ApplicationArea = LGXZMOFunctionality;
@@ -21,6 +26,25 @@ pageextension 50008 "LGX ZMO Sales Order" extends "Sales Order" //42
         {
             Visible = not HideCostAndPosting;
         }
+        // Antes en Zummo Ext WARRANTY (pageextension 50066)
+        addfirst("P&osting")
+        {
+            action("Calculate Tariff")
+            {
+                ApplicationArea = All;
+                Image = TaxPayment;
+                Promoted = true;
+                PromotedIsBig = true;
+                PromotedCategory = Category6;
+
+                trigger OnAction()
+                var
+                    Functions: Codeunit "ZM Event Suscriber";
+                begin
+                    Functions.CalculateTariffSalesHeader(Rec);
+                end;
+            }
+        }
     }
 
     trigger OnOpenPage()
@@ -33,4 +57,19 @@ pageextension 50008 "LGX ZMO Sales Order" extends "Sales Order" //42
 
     var
         HideCostAndPosting: Boolean;
+
+    local procedure ImportWarrantyServices()
+    var
+        WarrantyServiceHdr: Record "LGX ZMO Service & Warranty Hdr";
+        ServiceWarrList: page "LGX ZMO Service & Warr. List";
+    begin
+        ServiceWarrList.LookupMode(true);
+        ServiceWarrList.SetSeleccServWarrant();
+        if ServiceWarrList.RunModal() <> Action::LookupOK then
+            exit;
+        ServiceWarrList.GetRecord(WarrantyServiceHdr);
+
+
+        WarrantyServiceHdr.InsertWarrantyServices(Rec);
+    end;
 }

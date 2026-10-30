@@ -13,5 +13,13 @@ pageextension 50019 "LGX ZMO User Setup" extends "User Setup" //119
                 ApplicationArea = LGXZMOFunctionality;
             }
         }
+        // Antes en Zummo Ext WARRANTY (pageextension 50072)
+        addlast(Control1)
+        {
+            field("Allow statistics Serv. & Warr."; "Allow statistics Serv. & Warr.")
+            {
+                ApplicationArea = All;
+            }
+        }
     }
 }

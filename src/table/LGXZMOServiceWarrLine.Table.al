@@ -239,9 +239,29 @@ table 50001 "LGX ZMO Service & Warr. Line"
             "LGX ZMO Sell-To Customer No." := ServiceWarHeader."LGX ZMO Sell-To Customer No.";
             "LGX ZMO Item No." := ServiceWarHeader."LGX ZMO Item No.";
         end;
+        UpdateAssitedBy();
+    end;
+
+    trigger OnModify()
+    begin
+        UpdateAssitedBy();
     end;
 
     var
         Vendor: Record "Vendor";
         ServiceWarHeader: Record "LGX ZMO Service & Warranty Hdr";
+        // Antes en Zummo Ext WARRANTY (tableextension 50069)
+        Users: Record User;
+
+    procedure UpdateAssitedBy()
+    begin
+        if Rec."LGX ZMO Assisted By" = '' then begin
+            if Users.FindSet() then begin
+                if Users."Full Name" <> '' then
+                    Rec."LGX ZMO Assisted By" := CopyStr(Users."Full Name", 1, MaxStrLen(Rec."LGX ZMO Assisted By"))
+                else
+                    Rec."LGX ZMO Assisted By" := CopyStr(UserId, 1, MaxStrLen(Rec."LGX ZMO Assisted By"))
+            end;
+        end;
+    end;
 }

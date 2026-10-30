@@ -9,6 +9,12 @@ pageextension 50040 "LGX ZMO Sales Order List" extends "Sales Order List" //9305
                 ApplicationArea = LGXZMOFunctionality;
             }
         }
+        // Antes en Zummo Ext WARRANTY (pageextension 50069)
+        addlast(Control1)
+        {
+            field("Service & Warranty No."; "Service & Warranty No.")
+            { }
+        }
     }
     trigger OnOpenPage()
     var

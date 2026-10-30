@@ -19,5 +19,8 @@ tableextension 50011 "LGX ZMO User Setup" extends "User Setup" //91
             ObsoleteState = Removed;
             ObsoleteReason = 'Wrong data type';
         }
+        // Antes en Zummo Ext WARRANTY (tableextension 50068)
+        field(50060; "Allow statistics Serv. & Warr."; Boolean)
+        { }
     }
 }

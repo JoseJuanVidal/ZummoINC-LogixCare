@@ -233,10 +233,230 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3445767566 - NamedType 4091999560" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot close Services without Reason Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - NamedType lblClose</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - NamedType 2668316365" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot deleted there are lines in table %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - NamedType LblDelete</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - NamedType 3165105228" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must enter the option for %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - NamedType lblTechnicalVisit</note>
+        </trans-unit>
         <trans-unit id="Table 3445767566 - NamedType 2356836315" size-unit="char" translate="yes" xml:space="preserve">
           <source>The service %1 already exists.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - NamedType Text50001Txt</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3880168397 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The customer for %1 %2 is different from the customer for Warranty &amp; Service %3.\¿Do you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CheckCustomerNo - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 94999996 - NamedType 165748840" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are Products lines with a price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CheckItemLinePrice - NamedType lblMsgWithPrice</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 94999996 - NamedType 3298476350" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are Products lines without a price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CheckItemLinePrice - NamedType lblMsgWithoutPrice</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3549947051 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>¿Do you want to copy the address to the shipping address?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CopyAddresstoShipto - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 2169472807" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;h3 style="text-align: left; color: #3f7320;"&gt;&lt;span style="border-bottom: 4px solid #c82828;"&gt;%1 No.:&amp;nbsp;&lt;/span&gt;%2&lt;/h3&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblHdr1</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 4082562658" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;p&gt;&lt;strong&gt;%1: &lt;/strong&gt;%2&lt;/p&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblHdr2</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 1327407518" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;p&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblHdrIni</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 3444866041" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;strong&gt;%1: &lt;/strong&gt;%2&lt;br /&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblHdr3</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 558961548" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;p&gt;&lt;/p&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblBlank</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 1383066847" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/p&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblHdrFin</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 3647648576" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;table class="header" style="height: 54px;width: 1000px;"&gt;&lt;thead&gt;&lt;tr style="background-color: #999999;"&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableHdrIni</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 41554086" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;td&gt;&lt;strong&gt;&lt;span style="width: %1px;"color: #c82828;text-align: left;"&gt;%2&lt;/span&gt;&lt;/strong&gt;&lt;/td&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableHdr</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 1125410557" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/tr&gt;&lt;/thead&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableHdrFin</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 2922468422" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;tbody&gt;&lt;tr&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableBodyIni</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 3523420305" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;td style="text-align: left;"&gt;%2%1%3&lt;/td&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableBodyLeft</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 3853003328" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;td style="text-align: right;"&gt;%2%1%3&lt;/td&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableBodyright</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 1681637937" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;td style="text-align: center;"&gt;%2%1%3&lt;/td&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableBodycenter</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 1824635447" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/tr&gt;&lt;/tbody&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableBodyFin</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 3443878247" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/table&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableFin</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 3103272241" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;p&gt;&lt;strong&gt;%1: &lt;/strong&gt;%2&lt;/p&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType lblTableComment</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 510895644" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;span style="color: #ff0000;"&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType Rojo</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3995292679 - NamedType 2340767555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&lt;/span&gt;</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method CreateBodyHTMLWarrServ - NamedType RojoFin</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3396646346 - NamedType 1548330826" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty &amp; Services %1 Send.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method OrdersSendbyEmail - NamedType lblSend</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 1606730912 - NamedType 1548330826" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMA Warranty &amp; Services %1 Send.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method ReturnOrdersSendbyEmail - NamedType lblSend</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 432400930 - NamedType 339277786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order Operations Department request Warranty &amp; Services %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method SendEmailOperations - NamedType lblSubject</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 1552037766 - NamedType 339277786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Return Order Warranty &amp; Services from Operations Department RMA %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method SendEmailReturnOrderOperations - NamedType lblSubject</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Method 3596441285 - NamedType 2026798726" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The discount %1 applied is higher than the discount allowed to the customer.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Method ValidateDiscount - NamedType lblError</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 1148977814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Actiont Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Actiont Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 4194597795 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Amount Discount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2213800073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount Taxes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Amount Taxes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 3276201747 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cost Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Cost Total - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 710806030 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cotization Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Cotization Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2154449076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Date-Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Create Date-Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 1212043824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Card Fees (3.50 %)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Credit Card Fees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2117143612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Memo No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Credit Memo No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2354849501 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Discount %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field DiscountPorc - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 213071998 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fault</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Fault - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 3250458070 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Items Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 4248716123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Items No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 1965177752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Labor Hours Fees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Labor Hours Fees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 905030990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Labor Hours Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Labor Hours Quantity - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3445767566 - Field 3556068380 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Action Taken</source>
@@ -423,6 +643,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field LGX ZMO Ship-to County - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2808792490 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field LGX ZMO Ship-to E-Mail - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3445767566 - Field 1913426492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Ship-to Name</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -432,6 +657,11 @@
           <source>Ship-to Name 2</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field LGX ZMO Ship-to Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 3513096837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship-to E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field LGX ZMO Ship-to Phone - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 3445767566 - Field 1975253846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Ship-to Postal/ZIP Code</source>
@@ -483,6 +713,111 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field LGX ZMO Warranty Expiry Date - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 3148211543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Localized Fault</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Localized Fault - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 126133195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Orders Date-Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Orders Date-Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 586079946 - Property 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parts/Marchine</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Parts/Machine - Property caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2521221354 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resolution</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Resolution - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2278520725 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Response - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 678612386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Response Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Response Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2182545035 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rush Fees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Rush Fees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2590185606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent Quote Date-Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Sent Quote Date-Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 1632323632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent Return Order Date-Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Sent Return Order Date-Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 4093620049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service &amp; Warranty Associated</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Service &amp; Warranty Associated - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 4178946206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Service Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2145436509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Service Order - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 1896974463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Service Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 3855352567 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipphing Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Shipphing Method - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 3855352567 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Client Pick-Up,Tech Deliver,Freight,UPS Ground,UPS Next Day Air,UPS 2nd Day Air,UPS Next Day Air Saver,UPS 2nd Day Air A.M.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Shipphing Method - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 1743623554 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Shipping Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2353371117 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Taxes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Taxes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 551784966 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Technical Visit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Technical Visit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 3381377850 - Property 3830149458" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Round trip travel hours</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Travel Hours Fees - Property caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 776165004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Labor Hours Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field Travel Hours Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3445767566 - Field 2708250016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service &amp; Warranty Hdr - Field User ID - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3028656591 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Service &amp; Warranty Comments</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -518,6 +853,126 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table LGX ZMO Service Warr. Comment - Field LGX ZMO Table Name - Property OptionCaption</note>
         </trans-unit>
+        <trans-unit id="Table 3061734965 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Serv. &amp; Warranty Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Method 2898515552 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>¿Do you want to change the Item No. %1 - %2?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Method OnValidate_ItemNo - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Method 2898515552 - NamedType 2026798726" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Canceled by user</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Method OnValidate_ItemNo - NamedType lblError</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 213071998 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fault</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Fault - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 2105307182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Inventory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 3835282150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Incident No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field LGX ZMO Incident No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 3148211543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Localized Fault</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Localized Fault - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 2704404533 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 1896974463 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Service Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 381961415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Unit Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 2937233469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unit Price</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Unit Price - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3061734965 - Field 1903978320 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Serv &amp; Warr Items - Field Warranty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240314328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aux List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Service Order Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240314328 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Service Order Type - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240314328 - Field 1380164041 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Service Order Type - Field Code2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240314328 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Service Order Type - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240314328 - Field 1708888294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fault Location Spain</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Service Order Type - Field Fault Location Spain - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240314328 - Field 3062119465 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fault Spain</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Service Order Type - Field Fault Spain - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240314328 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Service Order Type - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240314328 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Order Type,Fault,Localized Fault</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ZM Service Order Type - Field Type - Property OptionCaption</note>
+        </trans-unit>
         <trans-unit id="Codeunit 283449335 - Method 4283143553 - NamedType 4148799239" size-unit="char" translate="yes" xml:space="preserve">
           <source>This External Document No. already exists on a posted document.\Document Type: %1\Document No. %2.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -527,6 +982,21 @@
           <source>This External Document No. already exists on Sales %1  No. %2.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit LGX ZMO Event Subscriber - Method SalesDocCheckExtDoc - NamedType Error55001Err</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 369310717 - Method 1558825775 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You want to calculate and add Tariff lines of %1 %2?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ZM Event Suscriber - Method CalculateTariffSalesHeader - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 369310717 - Method 4292965350 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No filter has been indicated\¿Do you want to continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ZM Event Suscriber - Method ExportExcelServiceWarranty - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 369310717 - Method 4292965350 - NamedType 2999144582" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service &amp; Warranty #1#############</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit ZM Event Suscriber - Method ExportExcelServiceWarranty - NamedType lblDialog</note>
         </trans-unit>
         <trans-unit id="Page 238779978 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Demo Report - Copy</source>
@@ -768,6 +1238,66 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 243171219 - Control 678612386 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Control Response Text - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Control 2613905139 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ship - To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Control ShipTo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Control 1960352112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty &amp; Services Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Control WarrantyServicesInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Control 1703448104 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custome Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Control DocAttachmentFactbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Control 276239764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachment Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Control W&amp;S Doc. Attachment Factbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Action 2071674231 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachment Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Action Attachment documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Action 783370822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Action PurchaseInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Action 927944371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Action SalesInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Action 3617415722 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Action SalesOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Action 1149918667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Quotes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Action SalesQuotes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Action 336917709 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Copy Address Shipp-To</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Action CopyAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 243171219 - Action 3886031042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Serv. &amp; Warranty Card - Action OpenWarrantyInfo - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 243171219 - Action 3072238888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Services &amp; Warranty</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -788,6 +1318,66 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 923985614 - Method 3057790640 - NamedType 4159646059" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer %1 assigned.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Method AssingCustomer_Action - NamedType lblMessage</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Control 504101809 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Costs</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Control SalerOrdersCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Control 737709150 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Control SalerOrdersPVP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Control 1575009580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Order Line Items No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Control SalerOrdersWS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Action 783370822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purchase Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Action PurchaseInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Action 927944371 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Invoice</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Action SalesInvoice - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Action 3617415722 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Action SalesOrder - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Action 1149918667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sales Quotes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Action SalesQuotes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Action 1309788087 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Assing Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Action AssingCustomer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Action 2400675204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Action CreateCustomer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Action 2400675204 - Method 1377591017 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want Create New Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Action CreateCustomer - Method OnAction - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="Page 923985614 - Action 956937378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Order</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service &amp; Warr. List - Action CreateWarrantyInfo - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 923985614 - Action 3072238888 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Services &amp; Warranty</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -807,6 +1397,166 @@
           <source>Service &amp; Warranty Comments</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page LGX ZMO Service Warr. Comments - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty &amp; Service Info Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Method 505715529 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>¿Do you want to send the email to Operations Department?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Method OrdersSendbyEmail_Action - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Method 616653871 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>¿Do you want to send the email to Operations Department?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Method ReturnOrdersSendbyEmail_Action - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 3930694123 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Labors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control ChargesGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 3411736907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Labor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control Labor Hours - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 1965177752 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control Labor Hours Fees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 905030990 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control Labor Hours Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 116815326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Travels</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control ChargeTravelssGrid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 2238737245 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control Travel Hours - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 3381377850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control Travel Hours Fees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 776165004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control Travel Hours Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 3097346278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shipping</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control Shipping - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 1554554962 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 1960352112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty &amp; Services Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control WarrantyServicesInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 1703448104 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Custome Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control DocAttachmentFactbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Control 276239764 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachment Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Control W&amp;S Doc. Attachment Factbox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Action 2950029116 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent RMA to Operations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Action OrdersRMASendbyEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Action 3396646346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sent to Operations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Action OrdersSendbyEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Action 1244744985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print RMA</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Action PrintReturnWarrServ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 606071313 - Action 3523166959 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Print</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Warranty &amp; Service Items Hdr - Action PrintWarrServ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1512279914 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service &amp; Warranty Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Service &amp; Warranty Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1512279914 - Action 2885247305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Service &amp; Warranty Items - Action CalculateCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1512279914 - Action 2885247305 - Method 1377591017 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to update the cost prices of the selected lines %1?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Service &amp; Warranty Items - Action CalculateCost - Method OnAction - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="Page 2240314328 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aux List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Service Order Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 196290849 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty &amp; Service Doc Attachment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Warr. &amp; Service Doc Attach - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 196290849 - NamedType 3865442186" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Attachments (%1)|%1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Warr. &amp; Service Doc Attach - NamedType FileDialogTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 196290849 - NamedType 303728444" size-unit="char" translate="yes" xml:space="preserve">
+          <source>*.jpg;*.jpeg;*.bmp;*.png;*.gif;*.tiff;*.tif;*.pdf;*.docx;*.doc;*.xlsx;*.xls;*.pptx;*.ppt;*.msg;*.xml;*.*</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Warr. &amp; Service Doc Attach - NamedType FilterTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 196290849 - NamedType 3777830815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Permite adjuntar un documento.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Warr. &amp; Service Doc Attach - NamedType ImportTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 196290849 - NamedType 494866634" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select File...</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Warr. &amp; Service Doc Attach - NamedType SelectFileTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 196290849 - Method 692496892 - NamedType 238945643" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please choose a file to attach.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Warr. &amp; Service Doc Attach - Method SaveAttachment - NamedType EmptyFileNameErr</note>
+        </trans-unit>
+        <trans-unit id="Page 196290849 - Method 692496892 - NamedType 2456682063" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The selected file has no content. Please choose another file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Warr. &amp; Service Doc Attach - Method SaveAttachment - NamedType NoContentErr</note>
+        </trans-unit>
+        <trans-unit id="Page 196290849 - Method 692496892 - NamedType 47745979" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please attach a document first.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ZM Warr. &amp; Service Doc Attach - Method SaveAttachment - NamedType NoDocumentAttachedErr</note>
         </trans-unit>
         <trans-unit id="Report 4064782225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Zummo Aged Accounts Receivable</source>
@@ -3838,6 +4588,136 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Transfer Order - Control ShowInternalInfo - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Report 3374934664 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zummo Warranty &amp; Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 1761463129" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CREDIT CARD AUTHORIZATION FORM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblCreditCar</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 2382218419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Billing address for credit card:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblCreditCarAddress</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 4244527145" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblCreditCardDate</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 1604652626" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Card #:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblCreditCarNo</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 841030021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cardholder's signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblCreditCarSignature</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 3419281828" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City/State/ZIP:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblCreditCarState</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 1741965122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ALL CREDIT CARDS ACCEPTED</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblCreditCarSufix</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 1963545803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disclaimer of agreement: This is a juicer mechanical repair/inspection non-refundable for services, once the tech opens the machine, he/she may find other parts damaged that might need to be replaced and or extra time than quoted. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblDisclaimer</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 3735794124" size-unit="char" translate="yes" xml:space="preserve">
+          <source>By checking here I accept to pay $50.00 more if I want to have my order processed after 2:00 PM as a rush fee (Mark with an X)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblRushfee</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 1505812203" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service Request Quote</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblServiceReq</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - NamedType 2245286954" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - NamedType lblWarranty</note>
+        </trans-unit>
+        <trans-unit id="Report 3374934664 - ReportDataItem 3445767566 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service &amp; Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service - ReportDataItem LGX ZMO Service &amp; Warranty Hdr - Property RequestFilterHeading</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Zummo Warranty &amp; Service</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 1761463129" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CREDIT CARD AUTHORIZATION FORM</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblCreditCar</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 2382218419" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Billing address for credit card:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblCreditCarAddress</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 4244527145" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblCreditCardDate</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 1604652626" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Credit Card #:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblCreditCarNo</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 841030021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cardholder's signature</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblCreditCarSignature</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 3419281828" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City/State/ZIP:</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblCreditCarState</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 1741965122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ALL CREDIT CARDS ACCEPTED</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblCreditCarSufix</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 1963545803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disclaimer of agreement: This is a juicer mechanical repair/inspection non-refundable for services, once the tech opens the machine, he/she may find other parts damaged that might need to be replaced and or extra time than quoted. </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblDisclaimer</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 3735794124" size-unit="char" translate="yes" xml:space="preserve">
+          <source>By checking here I accept to pay $50.00 more if I want to have my order processed after 2:00 PM as a rush fee (Mark with an X)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblRushfee</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 1505812203" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMA - Service Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblServiceReq</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - NamedType 2245286954" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RMA - Service Request</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - NamedType lblWarranty</note>
+        </trans-unit>
+        <trans-unit id="Report 1499025918 - ReportDataItem 3445767566 - Property 1806354803" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Service &amp; Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report LGX ZMO Warranty &amp; Service RMA - ReportDataItem LGX ZMO Service &amp; Warranty Hdr - Property RequestFilterHeading</note>
+        </trans-unit>
         <trans-unit id="PageExtension 3143000853 - Control 2055329339 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
           <source>CRM Id</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -3938,6 +4818,51 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Posted Pur. Inv. Subf. - Control LGXZMORemainingAmt - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PageExtension 1726225131 - NamedType 3058035321" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1726225131">
+          <source>Service &amp; Warranty No. already exists in Purchases %1 %2 of %3.\Invoices allocation %4\¿Do you wish to continue?</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Service &amp; Warranty No. already exists in Purchases %1 %2 of %3.\Invoices allocation %4\¿Do you wish to continue?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Posted Purch. Invoice - NamedType lblConfirmDuplicate</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1726225131 - NamedType 2122982401" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 1726225131">
+          <source>Service &amp; Warranty No. has not been indicate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Service &amp; Warranty No. has not been indicate"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Posted Purch. Invoice - NamedType lblErrorBlanco</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 161948738 - Action 3448253670 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 407220332">
+          <source>Exportar Costes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Posted Purchase Inv. - Action ExportarCostes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 4134605668 - Method 1238216260 - NamedType 2981352172" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 4134605668">
+          <source>Do you want to export invoices and warranties %1 invoices selected?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Posted Sales Invoices - Method WarrantiesServiceExcel - NamedType lblConfirm</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3049485163 - NamedType 3058035321" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3049485163">
+          <source>Service &amp; Warranty No. already exists in Purchases %1 %2 of %3.\Invoices allocation %4\¿Do you wish to continue?</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Service &amp; Warranty No. already exists in Purchases %1 %2 of %3.\Invoices allocation %4\¿Do you wish to continue?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Purchase Invoice - NamedType lblConfirmDuplicate</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3049485163 - NamedType 2122982401" size-unit="char" translate="yes" xml:space="preserve" al-object-target="PageExtension 3049485163">
+          <source>Service &amp; Warranty No. has not been indicate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Service &amp; Warranty No. has not been indicate"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Purchase Invoice - NamedType lblErrorBlanco</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3332346620 - Control 3764847370 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Tariif - Service &amp; Warranty</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Sales &amp; Rec. Setup - Control Tariff - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3332346620 - Control 4112993193 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Indicate the default % of Taxes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Sales &amp; Rec. Setup - Control Warr &amp; Serv. Taxes - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3332346620 - Control 359523772 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4145206282">
+          <source>Text for Tariff Description. %1 Producto No., %2 Description, %3 Tariff percentage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension LGX ZMO Sales &amp; Rec. Setup - Control Tariff Description - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="PageExtension 1742789369 - Control 1740067910 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
           <source>Discounted Price</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -4018,20 +4943,50 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purch. Cr. Memo Hdr. - Field LGX ZMO Service &amp; Warranty No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 1815240171 - NamedType 3058035321" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1815240171">
+          <source>Allocation already exists in Purchases %1 %2 of %3.\Invoices allocation %4\¿Do you wish to continue?</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Allocation already exists in Purchases %1 %2 of %3.\Invoices allocation %4\¿Do you wish to continue?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purch. Inv. Header - NamedType lblConfirmDuplicate</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1815240171 - NamedType 2122982401" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 1815240171">
+          <source>Sales Order No. has not been indicate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Sales Order No. has not been indicate"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purch. Inv. Header - NamedType lblErrorBlanco</note>
+        </trans-unit>
         <trans-unit id="TableExtension 1815240171 - Field 739472765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
           <source>Service &amp; Warranty No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purch. Inv. Header - Field LGX ZMO Service &amp; Warranty No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1815240171 - Field 1475490283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1592379974">
+          <source>Sales Order No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Sales Order No."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purch. Inv. Header - Field Sales Order No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 1659818551 - Field 739472765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1052755578">
           <source>Service &amp; Warranty No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purch. Rcpt. Header - Field LGX ZMO Service &amp; Warranty No. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 2386453945 - NamedType 3058035321" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 2386453945">
+          <source>Allocation already exists in Purchases %1 %2 of %3.\Invoices allocation %4\¿Do you wish to continue?</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Allocation already exists in Purchases %1 %2 of %3.\Invoices allocation %4\¿Do you wish to continue?"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purchase Header - NamedType lblConfirmDuplicate</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2386453945 - NamedType 2122982401" size-unit="char" translate="yes" xml:space="preserve" al-object-target="TableExtension 2386453945">
+          <source>Sales Order No. has not been indicate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Sales Order No. has not been indicate"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purchase Header - NamedType lblErrorBlanco</note>
+        </trans-unit>
         <trans-unit id="TableExtension 2386453945 - Field 739472765 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
           <source>Service &amp; Warranty No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purchase Header - Field LGX ZMO Service &amp; Warranty No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2386453945 - Field 1475490283 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2072992664">
+          <source>Sales Order No.</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Sales Order No."</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Purchase Header - Field Sales Order No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2320667380 - Field 1851657754 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 388441093">
           <source>Partially Shipped</source>
@@ -4043,20 +4998,95 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales Header - Field LGX ZMO Created By User ID - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 4034251792 - Field 543582516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Service &amp; Warranty No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales Header - Field Service &amp; Warranty No. - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 660542191 - Field 101992160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
           <source>Created By User ID</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales Invoice Header - Field LGX ZMO Created By User ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 660542191 - Field 543582516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 809936682">
+          <source>Service &amp; Warranty No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales Invoice Header - Field Service &amp; Warranty No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 522450391 - Field 3581641681 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
           <source>Unit Price After Discount</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales Line - Field LGX ZMO Unit Price After Disc. - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 522450391 - Field 2207335212 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>line Amount inc Tariff</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales Line - Field line Amount inc Tariff - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 522450391 - Field 2098489148 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2574427010">
+          <source>line Tariff</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales Line - Field line Tariff - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 1757081476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>G/L Account Labor/Travel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field G/L Account Labor/Travel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 1775342256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>G/L Account No. Tariff</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field G/L Account No. Tariff - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 518111393 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>G/L Account Rush Fee</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field G/L Account Rush Fee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 1052536687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>G/L Account Shipment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field G/L Account Shipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 4267905985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Labors Hours Fees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field Labors Hours Fees - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 4169134175 - Field 2440833947 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
           <source>Service &amp; Warranty Nos.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field LGX ZMO Serv. &amp; Warranty Nos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 830306543 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Maximum Discount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field Maximum Discount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 3135173278 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Operations Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field Operations Email - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 3988450549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Tariff %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field Tariff % - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 359523772 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Tariff Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field Tariff Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 3381377850 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Travel Hours Fees</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field Travel Hours Fees - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4169134175 - Field 4112993193 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4145206282">
+          <source>Warr &amp; Serv. Taxes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Sales&amp;ReceivablesSetup - Field Warr &amp; Serv. Taxes - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 1754256044 - Field 1671354334 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3399585325">
           <source>Salesperson User ID</source>
@@ -4118,6 +5148,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO TransferRcptHdr - Field LGX ZMO Requisition Date - Property Caption</note>
         </trans-unit>
+        <trans-unit id="TableExtension 2960434247 - Field 3374759114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
+          <source>Allow statistics Serv. &amp; Warr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO User Setup - Field Allow statistics Serv. &amp; Warr. - Property Caption</note>
+        </trans-unit>
         <trans-unit id="TableExtension 2960434247 - Field 568339657 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 337631938">
           <source>Hide Item Card Field Value</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -4137,6 +5172,16 @@
           <source>Service &amp; Warranty No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension LGX ZMO Vendor Ledger Entry - Field LGX ZMO Serv. &amp; Warranty No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3553303954 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 320556973">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ZINC Unlinked Attachments - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3553303954 - Field 2887224004 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 320556973">
+          <source>Type Document</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ZINC Unlinked Attachments - Field TypeDoc - Property Caption</note>
         </trans-unit>
       </group>
     </body>

@@ -17,6 +17,12 @@ tableextension 50006 "LGX ZMO Sales Header" extends "Sales Header" //36
             TableRelation = User."User Name";
             ValidateTableRelation = false;
         }
+        // Antes en Zummo Ext WARRANTY (tableextension 50066)
+        field(50060; "Service & Warranty No."; code[20])
+        {
+            Caption = 'Service & Warranty No.';
+            TableRelation = "LGX ZMO Service & Warranty Hdr"."LGX ZMO Incident No.";
+        }
     }
 
     trigger OnBeforeInsert()
