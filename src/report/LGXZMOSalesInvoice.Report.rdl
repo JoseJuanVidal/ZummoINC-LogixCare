@@ -1371,7 +1371,7 @@ Cstr(Fields!ZummoShippmentNo.Value)
                 </Paragraph>
               </Paragraphs>
               <Top>0.97143in</Top>
-              <Left>4.75709in</Left>
+              <Left>4.53209in</Left>
               <Height>11pt</Height>
               <Width>1.35085in</Width>
               <ZIndex>1</ZIndex>
@@ -1397,7 +1397,7 @@ Cstr(Fields!ZummoShippmentNo.Value)
                 </Paragraph>
               </Paragraphs>
               <Top>0.81336in</Top>
-              <Left>4.75917in</Left>
+              <Left>4.53417in</Left>
               <Height>11pt</Height>
               <Width>1.34877in</Width>
               <ZIndex>2</ZIndex>
@@ -1813,9 +1813,9 @@ Cstr(Fields!ZummoShippmentNo.Value)
                 </Paragraph>
               </Paragraphs>
               <Top>0.81349in</Top>
-              <Left>6.12183in</Left>
+              <Left>5.88294in</Left>
               <Height>11pt</Height>
-              <Width>0.92639in</Width>
+              <Width>1.16528in</Width>
               <ZIndex>19</ZIndex>
               <Style />
             </Textbox>
@@ -2466,9 +2466,9 @@ Cstr(Fields!ZummoShippmentNo.Value)
                 </Paragraph>
               </Paragraphs>
               <Top>0.97156in</Top>
-              <Left>6.12183in</Left>
+              <Left>5.88294in</Left>
               <Height>11pt</Height>
-              <Width>0.92431in</Width>
+              <Width>1.1632in</Width>
               <ZIndex>44</ZIndex>
               <Style />
             </Textbox>
@@ -2557,7 +2557,7 @@ Cstr(Fields!ZummoShippmentNo.Value)
                 </Paragraph>
               </Paragraphs>
               <Top>1.1381in</Top>
-              <Left>4.75709in</Left>
+              <Left>4.53209in</Left>
               <Height>11pt</Height>
               <Width>1.35085in</Width>
               <ZIndex>48</ZIndex>
@@ -2588,9 +2588,9 @@ Cstr(Fields!ZummoShippmentNo.Value)
                 </Paragraph>
               </Paragraphs>
               <Top>1.12989in</Top>
-              <Left>6.12183in</Left>
+              <Left>5.88294in</Left>
               <Height>11pt</Height>
-              <Width>0.94214in</Width>
+              <Width>1.18103in</Width>
               <ZIndex>49</ZIndex>
               <Style>
                 <Border>
