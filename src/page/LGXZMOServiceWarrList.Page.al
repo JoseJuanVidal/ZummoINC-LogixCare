@@ -20,6 +20,8 @@ page 50003 "LGX ZMO Service & Warr. List"
                     // Antes en Zummo Ext WARRANTY (pageextension 50065)
                     Style = Unfavorable;
                     StyleExpr = NotCustomerNo;
+                    // Antes en la extension Designer (pageextension 50102)
+                    Width = 31;
                 }
                 field("Item No."; "LGX ZMO Item No.")
                 {

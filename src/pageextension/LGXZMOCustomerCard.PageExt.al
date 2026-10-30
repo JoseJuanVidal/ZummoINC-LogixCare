@@ -30,6 +30,11 @@ pageextension 50001 "LGX ZMO Customer Card" extends "Customer Card" //21
                 ApplicationArea = LGXZMOFunctionality;
             }
         }
+        // Antes en la extension Designer (pageextension 50101)
+        modify("Salesperson Code")
+        {
+            Importance = Promoted;
+        }
     }
 
     trigger OnOpenPage()
